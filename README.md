@@ -19,8 +19,8 @@ Before you start, ensure you have the following installed:
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
-cd ocr-app
+git clone https://github.com/dilukshashamal/Week8Assignment.git
+cd Week8Assignment
 ```
 
 ## Build and Run the App
