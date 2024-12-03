@@ -1,0 +1,16 @@
+PyMuPDF
+paddlepaddle
+paddleocr>=2.6.0.3
+premailer
+transformers
+pillow
+huggingface_hub
+timm
+matplotlib
+opencv-python
+pandas
+fuzzywuzzy
+spacy
+pytest
+Flask
+numpy==1.24.4
