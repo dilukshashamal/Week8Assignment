@@ -22,3 +22,18 @@ Before you start, ensure you have the following installed:
 git clone <repository-url>
 cd ocr-app
 ```
+
+## Build and Run the App
+
+### 1. Run the following command to build the Docker image:
+```bash
+docker-compose build
+```
+
+### 2.Start the app using Docker Compose:
+```bash
+docker-compose up
+```
+
+
+
